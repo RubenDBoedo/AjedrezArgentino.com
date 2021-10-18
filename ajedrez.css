@@ -1,0 +1,158 @@
+.body { 
+	 background: url(aje.png);
+	 margin: 0px ;
+	 padding:0px;
+	 background-size:cover;
+	 background-position:center;
+
+	
+}
+.tituloh1 {
+	width:380px;
+	float: center;
+	background-color: aqua;
+	margin:30px auto;
+	padding:auto 5px;
+	border-radius:30px;
+	border:double 7px black;
+	text-align:center;
+	color:blue;
+	font-weight:10;
+	
+}
+
+.tituloh2 {
+	padding:5px 10px;
+	content:top 400px;
+	width:auto;
+	background-color: aqua;
+	border-radius:20px;
+	border:double 7px black;
+	margin: 100px auto;
+	color: red;
+
+}
+
+
+
+.center {
+	width: 150px;
+	margin: 0px auto;
+	background-color: white ;
+	text-align:center;
+	font-weight:100;
+	border-radius:20px;
+}
+
+.reloj {
+	background: url(fondo.png);
+	background-position: center;
+	background-size:auto;
+	width: 100px;
+	height:300px;
+
+}
+
+.div1 {
+	   width: auto;
+	   height:auto;
+	   background:aqua;
+	   padding:8px;
+	   border-radius:20px;
+	   border:double 7px black;
+	   margin: 100px auto;
+	   color:black;
+}
+
+.formulario{
+	     
+	     width: 280px;
+	     background:lightblue;
+	     margin:auto;
+	     margin-top:100px;
+	     padding:30px;
+	     box-shadow: 7px 13px 20px black;
+	     border-radius:40px;
+	     border:solid 5px black;
+
+
+}
+
+.boton {
+	    width: 50px;
+	    margin:auto;
+	    margin-top:5px;
+        background-color:grey;
+        border-radius:10%;
+        text-align:center;
+
+        
+
+}
+
+.boton:hover {
+	   -shadow: 1px 3px 5px red 0.3%;
+              
+
+}
+.nav {
+        
+        margin:auto;
+        width: 150px; 
+        background-color: aquamarine;
+        height:auto; 
+
+}
+
+.footer {
+	    margin: 450px 0px 0px 0px;
+        text-align:right;
+	    background: grey;
+	    width:auto;
+	    height:100px;
+}
+
+
+.pipi {
+
+	     background-color: lightblue;
+	      width: 200px;
+         margin:auto;
+          padding:20px;
+          box-shadow: 7px 13px 20px grey;
+	     border-radius:40px;
+	     border:solid 5px black;
+
+}
+
+
+.deposito {
+
+	       background: url(fondo.png);
+	       margin: 0px ;
+	       padding:0px;
+	       background-size:cover;
+	       background-position:center;
+}
+
+
+
+.input1   {
+            border: solid 1px black;
+            background-color: grey;
+	       box-shadow:5px 5px 5px black;
+           border:inset 2px black;
+}
+
+
+.input2     {
+            border: solid 1px black;
+            background-color: grey;
+	       box-shadow:5px 5px 5px grey;
+}
+
+.input3   {
+            border: solid 1px black;
+            background-color: grey;
+	       box-shadow:5px 5px 5px grey;
+}
